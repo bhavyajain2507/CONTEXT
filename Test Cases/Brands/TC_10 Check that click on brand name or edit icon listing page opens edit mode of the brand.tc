@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_10 Check that click on brand name or edit icon listing page opens edit mode of the brand</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5c0a379-7b82-4802-bdc7-34126a82dd1a</testCaseGuid>
+</TestCaseEntity>

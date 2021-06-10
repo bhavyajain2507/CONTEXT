@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_22 Verify that click on brands tab shows all the brands listed of that particular company</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f407f2b9-5431-4b1c-9278-8a1c1468d48b</testCaseGuid>
+</TestCaseEntity>

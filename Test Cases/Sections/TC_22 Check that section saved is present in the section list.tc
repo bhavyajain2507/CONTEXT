@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_22 Check that section saved is present in the section list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34e860c3-68d4-4f61-b939-d708b56db96b</testCaseGuid>
+</TestCaseEntity>

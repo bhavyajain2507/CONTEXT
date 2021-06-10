@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_22 Verify that it opens listing page of all users in the system on click of users tab in sidebar for superadmin account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97a3a343-161a-4547-a38e-b95d8c918379</testCaseGuid>
+</TestCaseEntity>

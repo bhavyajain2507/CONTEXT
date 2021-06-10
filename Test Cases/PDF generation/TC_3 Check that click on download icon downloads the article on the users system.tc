@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_3 Check that click on download icon downloads the article on the users system</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d52d20ab-9bb6-47b7-8c2e-f02be75903c6</testCaseGuid>
+</TestCaseEntity>

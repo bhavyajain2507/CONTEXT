@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>8 Check that Publish button in article is disabled in create mode when the article is published</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9e076ae-3dc1-432d-bf32-a13c814a6d40</testCaseGuid>
+</TestCaseEntity>

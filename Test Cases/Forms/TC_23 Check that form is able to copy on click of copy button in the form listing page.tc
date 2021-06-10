@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_23 Check that form is able to copy on click of copy button in the form listing page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a454d61-8c81-48ba-9622-ec724579bbe6</testCaseGuid>
+</TestCaseEntity>

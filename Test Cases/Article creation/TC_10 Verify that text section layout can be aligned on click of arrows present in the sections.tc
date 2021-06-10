@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_10 Verify that text section layout can be aligned on click of arrows present in the sections</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d895fa2-681a-45c2-8f42-746eb6e550d5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_9 Verify if Font Settings field can be selected and saved which will be seen on create and edit article page as a dropdown in menu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e1a1413-152f-464e-8c21-428c91edcd25</testCaseGuid>
+</TestCaseEntity>

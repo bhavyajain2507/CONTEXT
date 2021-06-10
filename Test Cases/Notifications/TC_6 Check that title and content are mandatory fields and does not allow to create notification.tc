@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_6 Check that title and content are mandatory fields and does not allow to create notification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>052b6e79-d0b4-4de1-b669-e61b5e13e0c4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_53 Verify that on click of redo on customize bar, the changed made by redo option is brought back</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e321f63e-c7b9-4088-af35-320314d88b9e</testCaseGuid>
+</TestCaseEntity>

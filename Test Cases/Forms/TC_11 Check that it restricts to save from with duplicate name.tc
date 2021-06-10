@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_11 Check that it restricts to save from with duplicate name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>35ad432f-5a4c-48ce-9e9a-1a66a8754169</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_4 Check that for copied article that on publish pop up, Show on boligkanalen.no checkbox is checked by default and cannot be unchecked</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6ba2a37b-0389-4dfd-8d52-74d42766ebc2</testCaseGuid>
+</TestCaseEntity>

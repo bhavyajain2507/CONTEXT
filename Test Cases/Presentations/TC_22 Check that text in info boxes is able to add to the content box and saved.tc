@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_22 Check that text in info boxes is able to add to the content box and saved</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ffb24de6-d909-46fe-8c9b-6a64024bdd6a</testCaseGuid>
+</TestCaseEntity>

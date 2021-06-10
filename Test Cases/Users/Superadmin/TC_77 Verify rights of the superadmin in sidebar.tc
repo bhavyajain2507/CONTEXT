@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_77 Verify rights of the superadmin in sidebar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b518137f-0625-4558-9c14-2038faef6ef3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_07 Check that selected title thumbnail shows active on click of swap icon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>31c726ec-2a27-4802-b7a3-d906988d1cd4</testCaseGuid>
+</TestCaseEntity>

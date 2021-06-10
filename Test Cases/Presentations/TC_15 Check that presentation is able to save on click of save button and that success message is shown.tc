@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_15 Check that presentation is able to save on click of save button and that success message is shown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f096be9-7497-4d38-99fa-5e05fd599b99</testCaseGuid>
+</TestCaseEntity>

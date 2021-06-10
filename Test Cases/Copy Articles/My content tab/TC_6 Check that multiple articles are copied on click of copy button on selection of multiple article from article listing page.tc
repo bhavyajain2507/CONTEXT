@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_6 Check that multiple articles are copied on click of copy button on selection of multiple article from article listing page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbafabfc-ed63-4857-bdd0-177ac1df6739</testCaseGuid>
+</TestCaseEntity>

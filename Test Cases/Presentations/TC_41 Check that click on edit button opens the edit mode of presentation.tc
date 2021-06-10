@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_41 Check that click on edit button opens the edit mode of presentation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f7f41a3-0e3a-43a3-9dd1-65ce7901c2ae</testCaseGuid>
+</TestCaseEntity>

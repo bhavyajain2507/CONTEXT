@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_6 Check that for copied article existing sections of article in Active section sidebar cannot be dragged</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d25f484d-fe66-4892-9981-7aaddfff166e</testCaseGuid>
+</TestCaseEntity>

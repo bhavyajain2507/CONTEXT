@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01 Verify on click of Create Article button user is redircted to article creation page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6594bec5-9a26-4f7f-8d86-5239d0a811db</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>222ac4f2-dbc1-425b-93a1-dc806ca74869</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

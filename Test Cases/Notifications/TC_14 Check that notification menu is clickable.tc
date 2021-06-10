@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_14 Check that notification menu is clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9757dbe-05cd-4654-bdc2-c06c4000f379</testCaseGuid>
+</TestCaseEntity>

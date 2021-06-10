@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_7 Check that brand logo is able to upload and save in brand form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d45e18a2-0226-44df-8b3a-1a6b4d8cd8a4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_10 Test if success message has Edit Article button for copy of single article from from top copy button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>426d67a9-b0aa-488e-8315-558f2be2e6da</testCaseGuid>
+</TestCaseEntity>

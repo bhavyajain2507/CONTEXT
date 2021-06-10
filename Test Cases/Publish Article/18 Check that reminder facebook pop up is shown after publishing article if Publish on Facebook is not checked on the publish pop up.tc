@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>18 Check that reminder facebook pop up is shown after publishing article if Publish on Facebook is not checked on the publish pop up</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd29b69a-eb7a-40d9-9a21-e99d9a80c121</testCaseGuid>
+</TestCaseEntity>

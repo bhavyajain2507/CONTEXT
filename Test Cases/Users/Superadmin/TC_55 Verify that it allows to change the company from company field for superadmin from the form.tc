@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_55 Verify that it allows to change the company from company field for superadmin from the form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29f58662-ba57-4e74-be82-dbda4dc39cc0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>21 Check that ratings are allowed to select by the user for article</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa474974-57e4-41cc-960f-31d45470d991</testCaseGuid>
+</TestCaseEntity>

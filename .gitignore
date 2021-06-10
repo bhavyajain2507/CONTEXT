@@ -1,4 +1,23 @@
+<<<<<<< HEAD
 
+=======
+.gradle
+
+bin
+
+Reports
+
+Libs
+
+output
+
+!output/.gitkeep
+build
+
+.classpath
+
+.project
+>>>>>>> branch 'master' of https://github.com/bhavyajain2507/CONTEXT.git
 /bin/
 /Libs/
 /.settings/

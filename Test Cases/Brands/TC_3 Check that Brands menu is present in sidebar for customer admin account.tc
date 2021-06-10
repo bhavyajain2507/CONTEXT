@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_3 Check that Brands menu is present in sidebar for customer admin account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f5c791f-a8c9-4393-a502-b38f7adb7615</testCaseGuid>
+</TestCaseEntity>

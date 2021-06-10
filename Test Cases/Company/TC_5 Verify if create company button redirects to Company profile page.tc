@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_5 Verify if create company button redirects to Company profile page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d551c997-ed91-4d2d-b4ac-110c40939cf0</testCaseGuid>
+</TestCaseEntity>

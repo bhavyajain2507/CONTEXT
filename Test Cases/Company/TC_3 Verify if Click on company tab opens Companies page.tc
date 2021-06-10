@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_3 Verify if Click on company tab opens Companies page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4d5706c-8141-41b6-adbb-ae73c4af8536</testCaseGuid>
+</TestCaseEntity>

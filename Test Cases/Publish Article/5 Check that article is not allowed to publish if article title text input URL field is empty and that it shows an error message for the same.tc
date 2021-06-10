@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5 Check that article is not allowed to publish if article title text input URL field is empty and that it shows an error message for the same</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7cbae1f6-e589-4011-b677-ec86ad412284</testCaseGuid>
+</TestCaseEntity>

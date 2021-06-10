@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>35ND Check that article is unpublished on click of unpublish icon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>17e4a70c-9a57-4967-8040-6720ca5f5c4a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_20 Verify if user can add his own pre saved article from My content tab to the content box using the Article tab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9bd6269e-b002-4bb2-a684-0e83338c0354</testCaseGuid>
+</TestCaseEntity>

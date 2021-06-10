@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_08 Verify if Copy and Delete button are provided only on My content tab on aticle listing page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de23c778-4e06-4e8b-a2d4-6bd1bb2697a0</testCaseGuid>
+</TestCaseEntity>

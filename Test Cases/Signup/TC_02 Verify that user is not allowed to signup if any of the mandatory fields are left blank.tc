@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_02 Verify that user is not allowed to signup if any of the mandatory fields are left blank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac8c4494-06aa-46be-961e-74c497db74c7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>34 Check that unpublish option is not available for Boligkanalen tab for normal user of comapny</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b64075c0-dc39-49d8-bd0f-57b7753b367d</testCaseGuid>
+</TestCaseEntity>

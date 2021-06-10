@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Automated 1 Check that author field doesnt show when brand -company has subdomain and article copied from diffrent company</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2e452c7-07f8-48e4-996e-f90d5f87a035</testCaseGuid>
+</TestCaseEntity>

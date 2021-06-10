@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_18 Check that the section is not saved and shows error message for saving of empty Section Name field in the article on the create section pop up in the article</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aae28f54-5299-4713-8efd-9e47b3c58a2a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_19 Verify that product is able to the content box from the auto tab of webshops</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29b97424-991e-40d9-af06-b15aef275366</testCaseGuid>
+</TestCaseEntity>

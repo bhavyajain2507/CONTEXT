@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_58 Verify if user can add more media to previously present sections</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d96bd649-f8c7-4b55-b213-d47f6984d523</testCaseGuid>
+</TestCaseEntity>

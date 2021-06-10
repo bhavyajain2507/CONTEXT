@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_16 Check that Create a new section radio button is selected for a new section template and Re-write current section button is disabled on the create section pop up in the article</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6286914-de31-41ff-90b0-1d22f63a2be0</testCaseGuid>
+</TestCaseEntity>

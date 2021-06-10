@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_6 Check that it does not allow to save brand form with empty Brand name and that it shows error message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a52759ce-f073-4deb-8297-493ce6697942</testCaseGuid>
+</TestCaseEntity>

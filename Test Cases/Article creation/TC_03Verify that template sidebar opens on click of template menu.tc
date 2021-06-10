@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_03Verify that template sidebar opens on click of template menu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d189988-3fbe-4bc6-a3aa-6280b022e8cc</testCaseGuid>
+</TestCaseEntity>

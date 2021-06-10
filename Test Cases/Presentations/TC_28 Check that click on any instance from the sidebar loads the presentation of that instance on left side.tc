@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_28 Check that click on any instance from the sidebar loads the presentation of that instance on left side</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0681f618-5bb4-4fb5-92fc-70aaa0c0179e</testCaseGuid>
+</TestCaseEntity>

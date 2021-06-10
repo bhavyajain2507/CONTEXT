@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_06 Check that title is able to swap on click from the available 4 layouts</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f611b94d-9ff6-42ac-b91f-f7ec851a606e</testCaseGuid>
+</TestCaseEntity>

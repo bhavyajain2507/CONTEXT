@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_13 Check that notifications menu is present for normal user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82683bff-011a-46a7-8f55-d2277bada77a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>15 Check that the article is not allowed to publish unless atleast one page is selected from facebook page dropdown and that it shows an error message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da9bb5c8-13ce-4503-af43-9bec99fb205a</testCaseGuid>
+</TestCaseEntity>

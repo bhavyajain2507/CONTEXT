@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_4 sec Check that admin and non- admin user is allowed to change the author of the section and that section is saved</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53aba3ee-2983-4f47-a1e6-aa10d1a92845</testCaseGuid>
+</TestCaseEntity>

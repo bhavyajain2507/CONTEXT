@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_24 Verify that external article is able to save from external url builder and that it is present in external url articles tab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3d47ec6b-6a32-48fd-aedc-6776ed533334</testCaseGuid>
+</TestCaseEntity>

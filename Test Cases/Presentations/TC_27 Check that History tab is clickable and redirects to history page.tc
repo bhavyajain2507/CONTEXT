@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_27 Check that History tab is clickable and redirects to history page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8273321f-add7-462f-bac0-10c04c05f419</testCaseGuid>
+</TestCaseEntity>

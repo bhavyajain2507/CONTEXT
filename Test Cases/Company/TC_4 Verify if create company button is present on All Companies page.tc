@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_4 Verify if create company button is present on All Companies page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5ec778b-d84d-4a79-a07b-1e739bb04601</testCaseGuid>
+</TestCaseEntity>

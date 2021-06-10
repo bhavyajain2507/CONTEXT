@@ -4,4 +4,22 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+<<<<<<< HEAD
+=======
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://supercontent-admin-staging.azurewebsites.net/'</initValue>
+      <name>stagingurl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'hrishi'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'hrishi'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+>>>>>>> branch 'master' of https://github.com/bhavyajain2507/CONTEXT.git
 </GlobalVariableEntities>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_37 Check that CTA button doesnt take invalid url format and shows an error message on the pop up</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccdae74d-56b5-4252-8180-567c019a2bc6</testCaseGuid>
+</TestCaseEntity>

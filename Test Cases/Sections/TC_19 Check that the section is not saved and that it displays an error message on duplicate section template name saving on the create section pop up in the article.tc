@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_19 Check that the section is not saved and that it displays an error message on duplicate section template name saving on the create section pop up in the article</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3372dde2-ea4c-4508-a0aa-460a07dd9776</testCaseGuid>
+</TestCaseEntity>

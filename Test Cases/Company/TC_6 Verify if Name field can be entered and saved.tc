@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_6 Verify if Name field can be entered and saved</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a9af590-9ba0-4929-bbf0-8640bad9a343</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_15 Check that the form is able to be delete on click of delete button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c69504e0-5373-46ac-9960-db58704ad7cd</testCaseGuid>
+</TestCaseEntity>

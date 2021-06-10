@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_9 Check that notification is able to delete from listing page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea03f00d-2383-41af-91fb-b7cec4956871</testCaseGuid>
+</TestCaseEntity>

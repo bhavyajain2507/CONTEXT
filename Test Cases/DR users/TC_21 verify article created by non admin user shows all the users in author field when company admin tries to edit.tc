@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_21 verify article created by non admin user shows all the users in author field when company admin tries to edit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2057a240-326a-46c9-9485-95c9d00bcfc5</testCaseGuid>
+</TestCaseEntity>

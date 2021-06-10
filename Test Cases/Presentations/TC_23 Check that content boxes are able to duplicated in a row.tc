@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_23 Check that content boxes are able to duplicated in a row</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7e1964a-11f5-405d-a5b6-40cc3fd6565c</testCaseGuid>
+</TestCaseEntity>

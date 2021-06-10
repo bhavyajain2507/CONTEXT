@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_1 Check that article is copied when copy button is clicked from article row</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f633825-39b9-4390-9c81-8cddbe132126</testCaseGuid>
+</TestCaseEntity>

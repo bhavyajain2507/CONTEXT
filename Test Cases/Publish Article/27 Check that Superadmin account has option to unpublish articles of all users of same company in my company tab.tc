@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>27 Check that Superadmin account has option to unpublish articles of all users of same company in my company tab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f866ce4c-0d37-45dc-989d-1603936e3454</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_02 Verify if user gets to select between two layouts when user lands on create article page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ee2d2f5-311b-4de0-88b7-1a31d4a156b2</testCaseGuid>
+</TestCaseEntity>

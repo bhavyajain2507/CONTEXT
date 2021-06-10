@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_7 Verify that user is able to create from company admin profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78e61913-fe31-4c38-b19e-acebb012472d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_8 Check that edit user profile opens on click of edit icon on user listing page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>705c648a-0ff2-41cf-ac85-12fbfb723676</testCaseGuid>
+</TestCaseEntity>

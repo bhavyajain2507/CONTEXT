@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>20 Check that social media icons are shown on the left side of the screen for the published article and that it remains sticky</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>198a312f-2b6c-4987-a063-785149429457</testCaseGuid>
+</TestCaseEntity>

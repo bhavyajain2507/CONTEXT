@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_2 Check that manage notification menu is not present for company admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2fac4c4-75f2-4016-aa17-d79f20b4bd63</testCaseGuid>
+</TestCaseEntity>

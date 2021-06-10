@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_48 Verify that on click of underline on customize bar, the selected text is underlined</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dea73605-26cd-4fb9-bb2c-8ad7a8a41e7b</testCaseGuid>
+</TestCaseEntity>

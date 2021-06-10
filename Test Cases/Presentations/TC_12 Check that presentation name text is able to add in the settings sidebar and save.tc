@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_12 Check that presentation name text is able to add in the settings sidebar and save</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e69a9710-8918-42a2-8b5f-6323875032d8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_4 Check that Forms menu is clickable on sidebar and opens forms listing page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>06530a7b-b3bc-4f43-a0e5-fe2bb4f84f1b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_15 Verify from superadmin account that Connect with Facebook button is available in Facebook details tab for logged in user company</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4fabdaf-5090-431d-9846-6dc7e5f09d96</testCaseGuid>
+</TestCaseEntity>

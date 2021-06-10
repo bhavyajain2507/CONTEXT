@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_51 Verify that link can be put to selected text on click of insert link on customize bar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>614283ba-90bf-45c8-97d1-575d25b6d27c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_5 Verify that articles in My company tab opens edit mode of article on click of the article name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc23d680-a03d-46fb-98e6-de1e60a1b394</testCaseGuid>
+</TestCaseEntity>

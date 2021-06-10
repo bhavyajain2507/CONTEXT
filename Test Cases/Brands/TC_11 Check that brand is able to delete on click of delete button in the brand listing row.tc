@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_11 Check that brand is able to delete on click of delete button in the brand listing row</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db81d431-47c4-4f4a-8306-4993196b01ca</testCaseGuid>
+</TestCaseEntity>

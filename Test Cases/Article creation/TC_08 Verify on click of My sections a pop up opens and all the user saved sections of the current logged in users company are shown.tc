@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_08 Verify on click of My sections a pop up opens and all the user saved sections of the current logged in users company are shown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8b9d20e-0e5a-42a4-91e2-ff2d2541aea6</testCaseGuid>
+</TestCaseEntity>

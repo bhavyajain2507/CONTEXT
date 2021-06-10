@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_2 Verify that Edit articles feature is not available for company admins account in company profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a46b6145-f98b-4706-8573-0bb86b624531</testCaseGuid>
+</TestCaseEntity>

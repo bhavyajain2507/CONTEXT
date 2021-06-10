@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_8 verify that non-admin users is not able to publish article from my company tab in edit mode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b8f2692-91d4-4e45-a1ef-1fc68ae4b208</testCaseGuid>
+</TestCaseEntity>

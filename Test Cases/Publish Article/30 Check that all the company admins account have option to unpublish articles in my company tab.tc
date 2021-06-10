@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>30 Check that all the company admins account have option to unpublish articles in my company tab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1b70d17-96e7-4890-b670-18950a7419d5</testCaseGuid>
+</TestCaseEntity>

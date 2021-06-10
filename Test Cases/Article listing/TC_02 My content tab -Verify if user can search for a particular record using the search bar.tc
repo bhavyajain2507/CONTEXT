@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_02 My content tab -Verify if user can search for a particular record using the search bar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62bc653a-3406-4270-97a3-c683fdfaa30d</testCaseGuid>
+</TestCaseEntity>

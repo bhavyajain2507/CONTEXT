@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>10 Check that the deleted article is not shown on the blog anymore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>976c8887-67a5-4d20-a8e0-730461d3f567</testCaseGuid>
+</TestCaseEntity>

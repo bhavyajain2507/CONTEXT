@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_15 Check that search functionality works on typing particular brand name in search bar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ebaa99c-7555-44ce-b41f-8144909ce651</testCaseGuid>
+</TestCaseEntity>

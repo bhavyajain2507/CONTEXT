@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Automated 3 Check for copied article that existing sections of article does not have any icons for content boxes or for sections to edit it</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81a04cad-2073-4789-93a1-ab476fe14b3c</testCaseGuid>
+</TestCaseEntity>

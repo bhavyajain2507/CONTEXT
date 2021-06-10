@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_49 Verify that on click of ordered list on customize bar, the selected text changes to numbered list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81be4e15-85bd-4c12-bed7-5588e5eee109</testCaseGuid>
+</TestCaseEntity>

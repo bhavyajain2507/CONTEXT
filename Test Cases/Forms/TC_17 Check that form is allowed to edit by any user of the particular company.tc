@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_17 Check that form is allowed to edit by any user of the particular company</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e66b7c19-6a68-44df-87e6-cdbd4cbd0079</testCaseGuid>
+</TestCaseEntity>

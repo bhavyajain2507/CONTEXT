@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_4 Check that existing sections can be selected from My sections in the sidebar to create new section</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1060dba-612e-4b46-ab7e-2c19e5a90864</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_12 Check that Superadmin is allowed to create and save brand for the company</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>425bc6ca-30f4-455d-abab-c678d8d35d2a</testCaseGuid>
+</TestCaseEntity>

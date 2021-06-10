@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>31 Check that unpublish option is not available for Boligkanalen tab for the company admins account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2d62461-5521-4db4-9ec3-43e866f9ab78</testCaseGuid>
+</TestCaseEntity>

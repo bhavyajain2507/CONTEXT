@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_10 Check that click on article in Du vil kanskje også like opens article details on the same dahsboard details page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee142c74-d1b5-43dc-b73c-d3e193445fc9</testCaseGuid>
+</TestCaseEntity>

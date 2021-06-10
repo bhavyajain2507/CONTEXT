@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_12 Check that click on save button saves the form and shows success message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0991e83-8acf-4bc5-a822-b2ef67ddc8dd</testCaseGuid>
+</TestCaseEntity>

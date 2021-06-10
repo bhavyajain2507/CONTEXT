@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_6 Check that all the available components can be dragged to create a form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc8b05af-3e25-406d-a1fd-e6a715277e2f</testCaseGuid>
+</TestCaseEntity>

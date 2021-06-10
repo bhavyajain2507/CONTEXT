@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_12 Check that notifications menu is present for company admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50c205e7-74e0-4a20-a9fe-66dea9be04b7</testCaseGuid>
+</TestCaseEntity>

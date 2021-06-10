@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_39 Check that presentations are able to filter with author name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0f127b0-17d0-460d-a4a0-ef954fb0a6d1</testCaseGuid>
+</TestCaseEntity>

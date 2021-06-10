@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_1 Verify that Edit articles feature is available for superadmin account in company profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf9bb5f0-139d-4e82-a778-fe00c1aad4c3</testCaseGuid>
+</TestCaseEntity>

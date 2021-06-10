@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_15 Check that click on Add to my sections for section in article opens pop up to create section</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7e1ea98-b378-43cb-9640-64e4d61aef97</testCaseGuid>
+</TestCaseEntity>

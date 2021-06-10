@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_33 Check that presentation is able to publish</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e87baf43-0b44-45a5-b077-c176fb57f972</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_09 Check that slides added in the presentation are present in active slides</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5203886e-9dc9-4e46-998d-7a4be3b3f242</testCaseGuid>
+</TestCaseEntity>

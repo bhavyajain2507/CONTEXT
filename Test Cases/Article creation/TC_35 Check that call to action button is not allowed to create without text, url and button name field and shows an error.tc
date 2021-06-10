@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_35 Check that call to action button is not allowed to create without text, url and button name field and shows an error</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd014d26-dae1-4791-8ee9-ce915b3ba057</testCaseGuid>
+</TestCaseEntity>

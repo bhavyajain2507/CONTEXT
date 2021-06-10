@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>16 Check that message is able to put in the social share message field for Publish on Facebook on the publish pop up</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1527cbe5-7ebc-4642-846e-a6814ab6dbd2</testCaseGuid>
+</TestCaseEntity>

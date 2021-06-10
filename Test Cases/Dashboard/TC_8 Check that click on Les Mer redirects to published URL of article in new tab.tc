@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_8 Check that click on Les Mer redirects to published URL of article in new tab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d97c3afd-2c40-42bd-ac0f-acc50ec097d5</testCaseGuid>
+</TestCaseEntity>

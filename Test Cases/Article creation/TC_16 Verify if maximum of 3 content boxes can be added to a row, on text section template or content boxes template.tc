@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_16 Verify if maximum of 3 content boxes can be added to a row, on text section template or content boxes template</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>434b7cbe-b972-4356-a24f-c1e3c9afda6c</testCaseGuid>
+</TestCaseEntity>

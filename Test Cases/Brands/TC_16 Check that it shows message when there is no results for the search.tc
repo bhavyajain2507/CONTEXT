@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_16 Check that it shows message when there is no results for the search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1f5f7a9-7a20-4f09-9333-89c143f6f65e</testCaseGuid>
+</TestCaseEntity>
