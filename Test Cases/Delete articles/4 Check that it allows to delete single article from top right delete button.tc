@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4 Check that it allows to delete single article from top right delete button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53788674-e7b2-4038-9be7-ac49cc563c7a</testCaseGuid>
+</TestCaseEntity>

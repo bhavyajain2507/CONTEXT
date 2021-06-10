@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Superadmin login - Redirect to article listing page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7cc49a64-fdab-4e17-8ea1-e9487a59a0dc</testCaseGuid>
+</TestCaseEntity>

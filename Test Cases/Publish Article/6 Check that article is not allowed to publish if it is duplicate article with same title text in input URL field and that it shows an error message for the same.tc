@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>6 Check that article is not allowed to publish if it is duplicate article with same title text in input URL field and that it shows an error message for the same</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>def845cf-2390-45ff-8660-1616acb4f2ae</testCaseGuid>
+</TestCaseEntity>

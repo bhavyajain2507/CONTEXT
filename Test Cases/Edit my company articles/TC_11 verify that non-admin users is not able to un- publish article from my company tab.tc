@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_11 verify that non-admin users is not able to un- publish article from my company tab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d03853ab-78d8-4083-a975-795c35f864ea</testCaseGuid>
+</TestCaseEntity>

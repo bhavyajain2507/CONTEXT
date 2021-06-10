@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_11 Check that deleted slide doesnt show in the presentation mode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85b6a9ca-b659-4756-99c5-80a155bece30</testCaseGuid>
+</TestCaseEntity>

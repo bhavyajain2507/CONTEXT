@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_20 Check that form submission shows success message in the article</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5d1c1c3-e122-4944-a7d6-e643cbbd9a80</testCaseGuid>
+</TestCaseEntity>

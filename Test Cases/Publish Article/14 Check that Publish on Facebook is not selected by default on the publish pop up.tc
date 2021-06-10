@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>14 Check that Publish on Facebook is not selected by default on the publish pop up</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c39a1f4a-7c1e-4165-970a-c11e0d9cbc3d</testCaseGuid>
+</TestCaseEntity>

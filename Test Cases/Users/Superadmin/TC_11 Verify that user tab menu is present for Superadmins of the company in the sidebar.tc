@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_11 Verify that user tab menu is present for Superadmins of the company in the sidebar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eebd7d35-2ea9-4834-980b-efe97b6c6322</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_9 Check that success message is proper for multiple articles copied from top copy button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de5befa5-911d-4f66-b85f-2c7d342c9db5</testCaseGuid>
+</TestCaseEntity>

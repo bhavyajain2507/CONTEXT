@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_6 Check that Article is searched with company name in search field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1f0da7e-d072-46e5-b50c-9ac0f0b46c50</testCaseGuid>
+</TestCaseEntity>

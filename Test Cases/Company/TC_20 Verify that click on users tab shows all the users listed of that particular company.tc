@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_20 Verify that click on users tab shows all the users listed of that particular company</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aeaa54b0-8182-4c0d-8dc4-84a20c495075</testCaseGuid>
+</TestCaseEntity>

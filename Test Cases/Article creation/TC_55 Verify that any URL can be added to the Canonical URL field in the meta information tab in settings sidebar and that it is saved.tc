@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_55 Verify that any URL can be added to the Canonical URL field in the meta information tab in settings sidebar and that it is saved</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>512729a5-f3f3-4e4d-ab7e-9368a72783c4</testCaseGuid>
+</TestCaseEntity>

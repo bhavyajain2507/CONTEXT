@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_33 Verify that it opens create user page on click of create user button from user listing for superadmin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1d24dff-bdcf-4d76-be7d-ef96012d8922</testCaseGuid>
+</TestCaseEntity>

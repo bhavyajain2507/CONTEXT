@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_25 Verify that click on users button on listing page redirects to users of that particular company</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad6f5175-59c4-41f4-a0bf-df25df57691a</testCaseGuid>
+</TestCaseEntity>

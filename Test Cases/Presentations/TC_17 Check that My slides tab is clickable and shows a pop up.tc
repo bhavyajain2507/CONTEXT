@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_17 Check that My slides tab is clickable and shows a pop up</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b304dcd-6d07-4ffd-9c34-fb48f05b9cab</testCaseGuid>
+</TestCaseEntity>

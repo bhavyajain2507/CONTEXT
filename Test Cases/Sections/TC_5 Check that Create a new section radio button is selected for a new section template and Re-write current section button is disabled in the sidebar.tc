@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_5 Check that Create a new section radio button is selected for a new section template and Re-write current section button is disabled in the sidebar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18f8e585-f526-4d01-8f53-628c055caa29</testCaseGuid>
+</TestCaseEntity>

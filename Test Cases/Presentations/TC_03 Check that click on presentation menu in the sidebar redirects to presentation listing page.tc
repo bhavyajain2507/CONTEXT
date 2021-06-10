@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_03 Check that click on presentation menu in the sidebar redirects to presentation listing page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fedc9557-ef15-454b-9867-548e557da59e</testCaseGuid>
+</TestCaseEntity>

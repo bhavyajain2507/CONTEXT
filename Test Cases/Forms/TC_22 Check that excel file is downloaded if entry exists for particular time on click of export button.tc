@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_22 Check that excel file is downloaded if entry exists for particular time on click of export button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccbe4c03-1b33-49b9-b261-af82677ebe9e</testCaseGuid>
+</TestCaseEntity>

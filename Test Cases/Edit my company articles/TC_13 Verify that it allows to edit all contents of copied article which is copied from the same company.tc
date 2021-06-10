@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_13 Verify that it allows to edit all contents of copied article which is copied from the same company</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de13d724-84fe-49a7-9747-8bf09762d9b5</testCaseGuid>
+</TestCaseEntity>

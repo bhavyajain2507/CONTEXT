@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>33 Check that normal user account does not have option to unpublish articles in my company tab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6ba3047d-7435-4831-a7a3-164bf480990f</testCaseGuid>
+</TestCaseEntity>

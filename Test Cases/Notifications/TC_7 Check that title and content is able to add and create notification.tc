@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_7 Check that title and content is able to add and create notification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9499f47-353f-4373-b02b-376c123e4152</testCaseGuid>
+</TestCaseEntity>

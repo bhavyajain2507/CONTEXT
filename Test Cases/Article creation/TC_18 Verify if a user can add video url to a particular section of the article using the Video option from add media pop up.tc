@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_18 Verify if a user can add video url to a particular section of the article using the Video option from add media pop up</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>19db3378-31aa-402a-87f8-fa3932d6eb77</testCaseGuid>
+</TestCaseEntity>

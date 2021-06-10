@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_09 Verify if the user can add sections using My sections pop up in the article</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d72e5755-4e11-401e-addc-3c64549225d5</testCaseGuid>
+</TestCaseEntity>

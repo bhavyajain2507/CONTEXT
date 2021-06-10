@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_32 Check that an error message is shown for the url field if the url already exists</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0ea260d-09dc-412a-9a59-21b0163e5da1</testCaseGuid>
+</TestCaseEntity>

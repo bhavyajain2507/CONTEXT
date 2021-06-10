@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_46 Verify that on click of paragraph style on customize bar, the selected text changes to particular style</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>937da68f-3e2a-4367-82e7-dc6d26b5e056</testCaseGuid>
+</TestCaseEntity>

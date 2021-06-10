@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_14 Check that admin and non- admin user is allowed to change the author of the article from my company tab and that article is saved</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>95cd3ae8-c1e3-42b4-93a8-5b91cbe9a701</testCaseGuid>
+</TestCaseEntity>

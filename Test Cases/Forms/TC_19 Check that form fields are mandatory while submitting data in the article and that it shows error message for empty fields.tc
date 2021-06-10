@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_19 Check that form fields are mandatory while submitting data in the article and that it shows error message for empty fields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>674a3a83-c454-4a96-8be0-035954dd4d70</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_05 Verify that signup form is allowed to submit on filling all the fields properly</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa444088-8446-4dc0-bbec-9bd81f5e3f90</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3 Verify if user can publish a saved article in edit mode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f85a02c-ce11-4857-8e70-9a5496f36e0b</testCaseGuid>
+</TestCaseEntity>

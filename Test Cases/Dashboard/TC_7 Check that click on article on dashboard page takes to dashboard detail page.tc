@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_7 Check that click on article on dashboard page takes to dashboard detail page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6620522-c50b-4645-ae44-dee2478b1571</testCaseGuid>
+</TestCaseEntity>

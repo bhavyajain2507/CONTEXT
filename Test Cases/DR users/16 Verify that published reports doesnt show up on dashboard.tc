@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>16 Verify that published reports doesnt show up on dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f677c20-8f3b-4f5b-82e8-7cbdb633eb2e</testCaseGuid>
+</TestCaseEntity>

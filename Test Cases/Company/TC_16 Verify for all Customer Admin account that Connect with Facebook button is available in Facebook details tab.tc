@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_16 Verify for all Customer Admin account that Connect with Facebook button is available in Facebook details tab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1537166-da02-4704-9bb8-37c09b3ded60</testCaseGuid>
+</TestCaseEntity>

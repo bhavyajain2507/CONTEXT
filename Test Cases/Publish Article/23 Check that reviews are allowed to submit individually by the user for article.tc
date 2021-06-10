@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>23 Check that reviews are allowed to submit individually by the user for article</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf407d28-7e1d-454f-a4fa-8d4547588c79</testCaseGuid>
+</TestCaseEntity>

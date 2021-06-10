@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_10 Check that form is not allowed to save with empty form name in form name field and that it shows error message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c65c612-e1f7-434c-bd2e-69ca066ab746</testCaseGuid>
+</TestCaseEntity>

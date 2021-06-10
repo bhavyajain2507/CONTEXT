@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_1 Check that articles appears on company page only if Show on blog is checked in the article</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e42d5f5-266e-46f1-b170-e23644961cb5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_5 Verify that it does not allow to save with the empty fields for user form and shows error message for the mandatory fields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>01251ff4-c41b-4fdd-b67d-517caa21ed75</testCaseGuid>
+</TestCaseEntity>

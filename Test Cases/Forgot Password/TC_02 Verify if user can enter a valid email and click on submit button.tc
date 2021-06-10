@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_02 Verify if user can enter a valid email and click on submit button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d444202e-06bb-4e43-98bd-fea9e2c13930</testCaseGuid>
+</TestCaseEntity>

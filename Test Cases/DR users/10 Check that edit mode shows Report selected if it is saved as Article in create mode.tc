@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>10 Check that edit mode shows Report selected if it is saved as Article in create mode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5e90526-63c6-4432-ae57-ddee7d26a46f</testCaseGuid>
+</TestCaseEntity>

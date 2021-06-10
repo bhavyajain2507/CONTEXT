@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DR non-admin user login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8549068-e7b4-49f5-accc-8a9ac66d9619</testCaseGuid>
+</TestCaseEntity>

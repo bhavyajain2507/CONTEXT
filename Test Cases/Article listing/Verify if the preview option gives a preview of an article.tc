@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if the preview option gives a preview of an article</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a547ca5-9ad4-4de0-af38-fdc2a4172316</testCaseGuid>
+</TestCaseEntity>

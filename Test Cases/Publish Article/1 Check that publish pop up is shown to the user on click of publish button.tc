@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1 Check that publish pop up is shown to the user on click of publish button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b655b63a-d554-4fa9-8306-602d3c0d84f9</testCaseGuid>
+</TestCaseEntity>

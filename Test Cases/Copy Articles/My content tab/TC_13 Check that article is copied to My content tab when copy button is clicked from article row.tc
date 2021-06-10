@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_13 Check that article is copied to My content tab when copy button is clicked from article row</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d889c6a-57a1-43e6-91b1-1d2e662383ea</testCaseGuid>
+</TestCaseEntity>

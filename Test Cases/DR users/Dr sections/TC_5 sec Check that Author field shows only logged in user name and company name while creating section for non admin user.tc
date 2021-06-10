@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_5 sec Check that Author field shows only logged in user name and company name while creating section for non admin user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9493513d-e4c7-48a9-9d44-07b859ea7ade</testCaseGuid>
+</TestCaseEntity>

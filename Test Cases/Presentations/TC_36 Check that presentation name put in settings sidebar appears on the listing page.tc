@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_36 Check that presentation name put in settings sidebar appears on the listing page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ffccd6fc-5141-4695-b42c-f792e14989ce</testCaseGuid>
+</TestCaseEntity>

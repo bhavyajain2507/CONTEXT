@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>28 Check that superadmin account has option to unpublish any published articles from Boligkanalen tab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a2f86e3-a75c-4ba2-a9ec-27f342e46e6f</testCaseGuid>
+</TestCaseEntity>

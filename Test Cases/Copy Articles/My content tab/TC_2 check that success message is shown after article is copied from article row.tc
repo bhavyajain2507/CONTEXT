@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_2 check that success message is shown after article is copied from article row</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe61fc79-51a7-4d5a-badc-85a29e6dd8db</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_18 Check that forms created are available for the sections for add media under Forms tab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8085ad3d-b4f4-44ad-82c8-2b2cb2ba0e9c</testCaseGuid>
+</TestCaseEntity>

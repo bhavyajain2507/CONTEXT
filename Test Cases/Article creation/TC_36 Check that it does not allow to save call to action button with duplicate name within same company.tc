@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_36 Check that it does not allow to save call to action button with duplicate name within same company</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2f669bc-a8c8-4b22-bfac-0b3f76fa6b40</testCaseGuid>
+</TestCaseEntity>

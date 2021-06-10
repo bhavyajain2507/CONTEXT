@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_06 Check that all published aricles shows in the listing on selecting published option from the filter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf3c5418-b4e9-4231-a784-08f4bde14907</testCaseGuid>
+</TestCaseEntity>

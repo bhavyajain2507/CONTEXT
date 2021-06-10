@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01 Check that Click on Innholdsverktøy on dashboard page redirects to article listing page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bce2b7b0-d4fa-4267-b87a-18be765f706d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_10Check that preview button is clickable and that section can be previewed in new browser tab as it is</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90163d7e-1dc3-4b18-8070-17ccede6ccc6</testCaseGuid>
+</TestCaseEntity>

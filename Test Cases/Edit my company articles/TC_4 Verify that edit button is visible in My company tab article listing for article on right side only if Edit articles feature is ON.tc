@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_4 Verify that edit button is visible in My company tab article listing for article on right side only if Edit articles feature is ON</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e048899a-3841-4fb2-a9c4-3f7e51b4dbe0</testCaseGuid>
+</TestCaseEntity>

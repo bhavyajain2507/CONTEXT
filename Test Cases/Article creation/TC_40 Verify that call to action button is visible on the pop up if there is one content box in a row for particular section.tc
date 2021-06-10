@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_40 Verify that call to action button is visible on the pop up if there is one content box in a row for particular section</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34287236-708c-4035-83bf-3511f025ccee</testCaseGuid>
+</TestCaseEntity>

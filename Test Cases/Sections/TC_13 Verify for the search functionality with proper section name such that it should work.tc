@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_13 Verify for the search functionality with proper section name such that it should work</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab44efb9-d36f-4ac1-92b4-7033917aaaa2</testCaseGuid>
+</TestCaseEntity>

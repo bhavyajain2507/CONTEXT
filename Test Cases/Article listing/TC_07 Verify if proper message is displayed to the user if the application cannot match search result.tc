@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_07 Verify if proper message is displayed to the user if the application cannot match search result</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8951e45-7713-4cba-8114-4646ff7a76d6</testCaseGuid>
+</TestCaseEntity>

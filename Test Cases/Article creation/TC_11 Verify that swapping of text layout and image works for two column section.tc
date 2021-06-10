@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_11 Verify that swapping of text layout and image works for two column section</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4533084b-cd8d-41e1-9cf8-938c6f4565ef</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_42 Verify that on selection of text for sections having text, the customize bar appears</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ec0093b-ffbb-4ac5-900d-c307194d4584</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_2 Check that Create Section button is clickable and takes to create Section view</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eaddde28-faeb-4438-8d81-560e4b141e05</testCaseGuid>
+</TestCaseEntity>

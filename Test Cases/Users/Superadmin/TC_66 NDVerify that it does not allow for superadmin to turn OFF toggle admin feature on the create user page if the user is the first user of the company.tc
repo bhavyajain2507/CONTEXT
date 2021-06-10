@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_66 NDVerify that it does not allow for superadmin to turn OFF toggle admin feature on the create user page if the user is the first user of the company</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5451c0c3-a20d-44ef-9401-32231dc8a8c3</testCaseGuid>
+</TestCaseEntity>

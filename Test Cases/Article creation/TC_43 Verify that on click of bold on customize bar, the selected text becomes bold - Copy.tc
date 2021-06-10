@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_43 Verify that on click of bold on customize bar, the selected text becomes bold - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b394049c-1c7a-4d90-b209-1d4cb842ff3f</testCaseGuid>
+</TestCaseEntity>

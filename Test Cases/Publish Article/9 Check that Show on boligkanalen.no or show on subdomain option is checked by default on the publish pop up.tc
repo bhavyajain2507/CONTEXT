@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9 Check that Show on boligkanalen.no or show on subdomain option is checked by default on the publish pop up</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3afe3d2f-a559-4158-953e-c2b6065cd085</testCaseGuid>
+</TestCaseEntity>

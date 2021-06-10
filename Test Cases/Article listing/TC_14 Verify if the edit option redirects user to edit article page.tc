@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_14 Verify if the edit option redirects user to edit article page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e41d6290-7096-4006-b505-cbed47a26597</testCaseGuid>
+</TestCaseEntity>

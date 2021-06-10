@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04 Verify if the user selected templates are reflected on the Article creation page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c56569ae-de0e-4df6-84cd-9ff8a6b932ee</testCaseGuid>
+</TestCaseEntity>

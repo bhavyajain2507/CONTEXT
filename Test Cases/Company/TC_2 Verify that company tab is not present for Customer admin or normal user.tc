@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_2 Verify that company tab is not present for Customer admin or normal user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dbfac43a-6e0e-41c3-b814-70b343217db2</testCaseGuid>
+</TestCaseEntity>

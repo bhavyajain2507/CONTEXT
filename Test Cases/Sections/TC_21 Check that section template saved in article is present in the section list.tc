@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_21 Check that section template saved in article is present in the section list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0a57819-49e4-4661-a250-3a65a14f7402</testCaseGuid>
+</TestCaseEntity>

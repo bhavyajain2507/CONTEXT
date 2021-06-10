@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_9 Check that click on Til Pass copies an article to the system for logged in user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdb92ad7-ec86-4d8b-97ed-18768aee65dd</testCaseGuid>
+</TestCaseEntity>

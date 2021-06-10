@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_12 verify that it allows to swap title layout and change image if article copied is general article from different company</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5b16c36-1177-4fc9-a8b1-2befc70d4a69</testCaseGuid>
+</TestCaseEntity>

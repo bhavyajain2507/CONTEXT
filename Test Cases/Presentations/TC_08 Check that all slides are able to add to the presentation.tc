@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_08 Check that all slides are able to add to the presentation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d472b72-fca3-43a4-88da-394e8600c628</testCaseGuid>
+</TestCaseEntity>

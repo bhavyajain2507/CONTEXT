@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_35 Check that a message is shown to the user to make a full screen view</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9058715-3955-4e89-be58-3ec6a57784ec</testCaseGuid>
+</TestCaseEntity>

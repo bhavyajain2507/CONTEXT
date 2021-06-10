@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_20 Check that already saved template has rewrite cutrrent section radio button selected and allows to select create new section radio button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>717acb6d-e15e-487b-845b-84405e6bc7a7</testCaseGuid>
+</TestCaseEntity>

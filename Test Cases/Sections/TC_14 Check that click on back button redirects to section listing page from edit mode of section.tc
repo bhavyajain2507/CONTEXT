@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_14 Check that click on back button redirects to section listing page from edit mode of section</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d41a917-90a6-4157-a1ef-cafb1b6fd310</testCaseGuid>
+</TestCaseEntity>

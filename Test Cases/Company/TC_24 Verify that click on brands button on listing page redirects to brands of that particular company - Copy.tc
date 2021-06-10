@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_24 Verify that click on brands button on listing page redirects to brands of that particular company - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1afda6a-cc6b-4d18-b84f-38843ce4a675</testCaseGuid>
+</TestCaseEntity>

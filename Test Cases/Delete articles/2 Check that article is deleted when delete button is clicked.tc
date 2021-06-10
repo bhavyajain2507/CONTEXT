@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2 Check that article is deleted when delete button is clicked</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc94ad47-bb11-440f-b5e9-ac8b62c6e626</testCaseGuid>
+</TestCaseEntity>

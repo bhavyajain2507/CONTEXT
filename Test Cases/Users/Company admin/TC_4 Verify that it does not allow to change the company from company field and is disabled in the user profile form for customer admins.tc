@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_4 Verify that it does not allow to change the company from company field and is disabled in the user profile form for customer admins</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c381f58-0e50-466b-9bd4-6d76672cb014</testCaseGuid>
+</TestCaseEntity>

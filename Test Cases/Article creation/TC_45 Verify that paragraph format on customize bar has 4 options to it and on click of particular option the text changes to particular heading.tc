@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_45 Verify that paragraph format on customize bar has 4 options to it and on click of particular option the text changes to particular heading</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bfe775e7-cd9e-4bf6-9077-bcd2594a5e63</testCaseGuid>
+</TestCaseEntity>

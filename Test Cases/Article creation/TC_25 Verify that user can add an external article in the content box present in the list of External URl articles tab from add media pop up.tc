@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_25 Verify that user can add an external article in the content box present in the list of External URl articles tab from add media pop up</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02e11b64-c92f-4ed1-8480-c1e2d0c6d3b0</testCaseGuid>
+</TestCaseEntity>

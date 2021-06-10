@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>12 Check that Show on dashboard option is selected by default on the publish pop up</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>74bd728c-6c18-4edd-a599-717222c36e76</testCaseGuid>
+</TestCaseEntity>

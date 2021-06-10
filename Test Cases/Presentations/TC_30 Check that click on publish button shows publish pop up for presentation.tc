@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_30 Check that click on publish button shows publish pop up for presentation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3e2049b-c3cf-469d-8915-702caf0f2266</testCaseGuid>
+</TestCaseEntity>

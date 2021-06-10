@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_38 Check that created call to action button is saved in the CTA button list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0b0e3d6-8ce2-4d69-849e-5b4981dfa3a4</testCaseGuid>
+</TestCaseEntity>

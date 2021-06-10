@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_21 Check that click on create user button in users tab redirects to create user form page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce097113-362d-44d0-8944-5c377783d097</testCaseGuid>
+</TestCaseEntity>

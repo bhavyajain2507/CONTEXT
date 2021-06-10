@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_14 Verify if that duplicate company name is not allowed to save</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f40416ad-5cc7-482c-b077-f84bf3af7c0b</testCaseGuid>
+</TestCaseEntity>
