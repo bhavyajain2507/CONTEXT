@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_59 Verify if user can add media to new added sections in edit mode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2d3523b-7c15-4aef-b660-9ea102806309</testCaseGuid>
+</TestCaseEntity>

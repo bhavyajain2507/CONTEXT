@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_48 Check that Presentations tab is present in the add media pop up of report - Copy</name>
+   <name>TC_49 Check that presentation is able to add to the content box</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>397bc82f-06e0-4765-b537-b4d457045e6e</testCaseGuid>

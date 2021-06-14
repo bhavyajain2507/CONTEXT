@@ -9,19 +9,15 @@ import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
 import com.kms.katalon.core.model.FailureHandling as FailureHandling
 import com.kms.katalon.core.testcase.TestCase as TestCase
 import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
 import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Login Test cases/TC_02 Correct username, Correct password(Successful login)'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('DR users/TC_50 Check that My slides tab is shown in the templates sidebar'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Dashboard/Redirect to article listing page from dashboard buttton'))
-
-WebUI.click(findTestObject('Article listing page/create article_button'))
-
-WebUI.verifyElementPresent(findTestObject('Article/Title layout 1'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Article/Title layout 2'), 0)
+WebUI.click(findTestObject('Presentations/Templates sidebar/My slide tab'))
 
