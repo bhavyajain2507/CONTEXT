@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_34 Check that Folder name input field allows to enter text to create new folder</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>02155faa-cfd1-4ab3-b412-9bc3ae72b302</testCaseGuid>
-</TestCaseEntity>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_41 Check that article-reports present in particular folder or subfolder is able to move to different folder or subfolder present in folder menu</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>b2d6f813-5083-4c7b-b874-b6b90664a6aa</testCaseGuid>
-</TestCaseEntity>

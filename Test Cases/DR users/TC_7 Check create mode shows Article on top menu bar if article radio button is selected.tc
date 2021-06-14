@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_7 Check create mode shows Article on top menu bar if article radio button is selected</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>28b9ae87-78db-4140-883c-52b8848ff12e</testCaseGuid>
-</TestCaseEntity>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_20 Check that article created by admin user shows all the users in author field fro other users of company</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>26641789-00ca-4296-990a-616b8ed3a2aa</testCaseGuid>
-</TestCaseEntity>

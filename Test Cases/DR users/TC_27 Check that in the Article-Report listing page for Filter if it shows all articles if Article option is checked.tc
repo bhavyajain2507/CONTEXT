@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_27 Check that in the Article-Report listing page for Filter if it shows all articles if Article option is checked</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>92292118-2b06-4c82-9f3c-57511f90b8e2</testCaseGuid>
-</TestCaseEntity>

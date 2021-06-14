@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Edit company</name>
+   <name>AV or For_author field</name>
    <tag></tag>
-   <elementGuidId>4ed5e9cb-0325-492f-aed0-7348047aef2d</elementGuidId>
+   <elementGuidId>e2562bde-430a-424a-be10-e1d23c5d3f6e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[2]/div[2]/div[8]/div/ul/ul/li[2]/a/span[2]</value>
+         <value>//*[@id=&quot;creator&quot;]/span[1]/text()</value>
       </entry>
       <entry>
          <key>BASIC</key>

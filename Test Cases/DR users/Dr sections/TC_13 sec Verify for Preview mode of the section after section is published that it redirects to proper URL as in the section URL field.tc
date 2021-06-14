@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_13 sec Verify for Preview mode of the section after section is published that it redirects to proper URL as in the section URL field</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>b80d22d4-597d-4f18-9f91-7737ba516594</testCaseGuid>
-</TestCaseEntity>

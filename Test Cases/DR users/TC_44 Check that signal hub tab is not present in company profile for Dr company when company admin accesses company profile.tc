@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_44 Check that signal hub tab is not present in company profile for Dr company when company admin accesses company profile</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>051d1d00-4a8b-4d1b-998f-2eea34107df7</testCaseGuid>
-</TestCaseEntity>

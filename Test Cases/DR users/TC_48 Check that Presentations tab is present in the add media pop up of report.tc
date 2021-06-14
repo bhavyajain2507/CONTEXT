@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_48 Check that Presentations tab is present in the add media pop up of report</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>b7261786-428e-4ccc-8807-cb7488e2bd7b</testCaseGuid>
-</TestCaseEntity>

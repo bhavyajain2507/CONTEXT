@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_38 Check that more than 1 article or report from article-report listing is able to move to particular folder or subfolder</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>3c621930-479f-4c71-b962-7c4507aaa8a7</testCaseGuid>
-</TestCaseEntity>

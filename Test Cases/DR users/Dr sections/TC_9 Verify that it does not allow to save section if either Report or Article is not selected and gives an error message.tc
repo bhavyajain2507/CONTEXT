@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_9 Verify that it does not allow to save section if either Report or Article is not selected and gives an error message</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>4c505b15-d9c7-411e-8e1f-13d600f9fc4e</testCaseGuid>
-</TestCaseEntity>

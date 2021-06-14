@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_18 Check that list of customer dropdown is present in edit mode of the report for DR user</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>b20c1dd9-3784-4b05-98a4-6ab866e51c16</testCaseGuid>
-</TestCaseEntity>

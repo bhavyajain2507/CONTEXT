@@ -4,5 +4,5 @@
    <name>TC_6 sec Check that Av is shown before Author field in the section when admin or non admin user logs himself in the account</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>f51f4ebc-1b12-4a7b-97b1-7d804cfb5c90</testCaseGuid>
+   <testCaseGuid>c75f6c5f-c814-4f1f-9ff7-a1cb50243c87</testCaseGuid>
 </TestCaseEntity>

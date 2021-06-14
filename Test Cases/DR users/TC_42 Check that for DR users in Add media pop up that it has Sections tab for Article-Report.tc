@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_42 Check that for DR users in Add media pop up that it has Sections tab for Article-Report</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>e08f3493-0b51-4d9a-9a68-03fbd7edeaad</testCaseGuid>
-</TestCaseEntity>

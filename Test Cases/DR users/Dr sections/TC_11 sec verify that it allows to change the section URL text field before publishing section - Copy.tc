@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_11 sec verify that it allows to change the section URL text field before publishing section - Copy</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>cf35cd57-1eef-4c11-b353-231102c50b48</testCaseGuid>
-</TestCaseEntity>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_1 Check that it shows menu name Articles-Reports in the sidebar</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>75fd3585-e45a-4208-a088-c5eccfeba3f6</testCaseGuid>
-</TestCaseEntity>

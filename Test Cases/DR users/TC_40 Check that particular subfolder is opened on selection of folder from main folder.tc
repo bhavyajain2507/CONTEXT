@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_40 Check that particular subfolder is opened on selection of folder from main folder</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>10e911bf-13d7-4f9a-8378-0d43e230e57c</testCaseGuid>
-</TestCaseEntity>

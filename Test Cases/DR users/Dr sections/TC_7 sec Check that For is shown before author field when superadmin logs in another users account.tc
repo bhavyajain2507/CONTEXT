@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_7 sec Check that For is shown before author field when superadmin logs in another users account</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>e7034e98-c5c5-4d3d-a3a5-0a18aafc3ca6</testCaseGuid>
-</TestCaseEntity>

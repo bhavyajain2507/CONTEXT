@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_5 Check that it does not allow to choose layout until the Article or Report is selected and that is shows error message for the same</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>bd853cb6-b3e9-4cd8-97ac-3429196b5cae</testCaseGuid>
-</TestCaseEntity>

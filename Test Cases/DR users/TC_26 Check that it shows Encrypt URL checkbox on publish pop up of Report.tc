@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_26 Check that it shows Encrypt URL checkbox on publish pop up of Report</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>92731715-d315-4e4f-9e56-83caec499223</testCaseGuid>
-</TestCaseEntity>

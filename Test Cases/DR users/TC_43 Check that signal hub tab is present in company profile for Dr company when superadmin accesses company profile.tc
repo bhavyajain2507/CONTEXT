@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_43 Check that signal hub tab is present in company profile for Dr company when superadmin accesses company profile</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>f0db407b-31ee-4480-b571-c4d9439f3883</testCaseGuid>
-</TestCaseEntity>

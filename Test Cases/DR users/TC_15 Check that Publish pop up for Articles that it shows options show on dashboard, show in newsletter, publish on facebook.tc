@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_15 Check that Publish pop up for Articles that it shows options show on dashboard, show in newsletter, publish on facebook</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>cdddbca7-da63-42d7-a7dd-170477b352ce</testCaseGuid>
-</TestCaseEntity>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_33 Check that Move to Folder dropdown is not present in the Boligkanalen tab</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>857d7960-bbdc-4909-addb-d5e3905ebf08</testCaseGuid>
-</TestCaseEntity>
