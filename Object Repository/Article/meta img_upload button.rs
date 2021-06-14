@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>upload img_content box</name>
+   <name>meta img_upload button</name>
    <tag></tag>
-   <elementGuidId>fcf1c1bb-ecbe-4ab2-a4cb-3a818cf32d6e</elementGuidId>
+   <elementGuidId>7738cc5f-7998-40e6-aba2-44da90b09228</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@class = 'cropper-file-name desktop-cropit title-img-file title-img-desktop-file']</value>
+         <value>//*[@class = 'metaImgUploadDiv cameramtaDiv']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@src='/assets/images/photo-camera-small.svg']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,6 +21,6 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>cropper-file-name desktop-cropit title-img-file title-img-desktop-file</value>
+      <value>metaImgUploadDiv cameramtaDiv</value>
    </webElementProperties>
 </WebElementEntity>

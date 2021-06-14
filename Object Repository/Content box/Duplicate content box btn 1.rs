@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Duplicate content box button</name>
+   <name>Duplicate content box btn 1</name>
    <tag></tag>
    <elementGuidId>206624b3-8006-4a11-8bb0-c4cfc9704d6c</elementGuidId>
    <selectorCollection>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_59 Check that image uploaded for title section sets as meta image by default in the settings sidebar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c12d6c78-fbfe-429d-97fe-25afcd73cdf5</testCaseGuid>
+</TestCaseEntity>

@@ -9,8 +9,12 @@
          <key>BASIC</key>
          <value>/html/body/div[2]/div[2]/div[9]/div[21]/div[8]/ul/li[1]/a</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@value='meta']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>

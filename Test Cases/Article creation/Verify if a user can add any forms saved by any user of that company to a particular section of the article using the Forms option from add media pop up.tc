@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Verify if a user can add any forms saved by any user of that company to a particular section of the article using the Forms option from add media pop up</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>ace7fe09-b4a2-4721-9729-74d4d68c34c8</testCaseGuid>
-</TestCaseEntity>

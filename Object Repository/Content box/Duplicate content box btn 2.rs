@@ -1,22 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>upload img_content box</name>
+   <name>Duplicate content box btn 2</name>
    <tag></tag>
-   <elementGuidId>fcf1c1bb-ecbe-4ab2-a4cb-3a818cf32d6e</elementGuidId>
+   <elementGuidId>9ffc23af-5271-4a38-98ad-e8c3dfceb531</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@class = 'cropper-file-name desktop-cropit title-img-file title-img-desktop-file']</value>
+         <value>//*[@class = 'PlainTextDuplicate UploadBtn']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;text-block-editable&quot;]/div/div[3]/div/div[2]/button[1]/span</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>cropper-file-name desktop-cropit title-img-file title-img-desktop-file</value>
+      <value>PlainTextDuplicate UploadBtn</value>
    </webElementProperties>
 </WebElementEntity>
