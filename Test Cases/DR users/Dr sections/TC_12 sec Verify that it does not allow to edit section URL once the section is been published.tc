@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_12 sec Verify that it does not allow to edit section URL once the section is been published</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df895562-f79b-4ae3-ac33-4280d5b6ecf1</testCaseGuid>
+</TestCaseEntity>

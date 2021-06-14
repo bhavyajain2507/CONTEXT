@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Edit company</name>
+   <name>Checkbox_Authenticate report</name>
    <tag></tag>
-   <elementGuidId>4ed5e9cb-0325-492f-aed0-7348047aef2d</elementGuidId>
+   <elementGuidId>e2d40f67-b6c0-4a4e-9ae8-f2e41a4a394f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@class = 'nav-item start customers-page']</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value></value>
+         <value>//*[@id = 'chkAuthenticateReports']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -19,8 +15,8 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>id</name>
       <type>Main</type>
-      <value>nav-item start customers-page</value>
+      <value>chkAuthenticateReports</value>
    </webElementProperties>
 </WebElementEntity>

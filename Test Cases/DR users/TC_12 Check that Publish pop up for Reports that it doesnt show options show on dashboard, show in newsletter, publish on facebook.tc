@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_12 Check that Publish pop up for Reports that it doesnt show options show on dashboard, show in newsletter, publish on facebook</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3383ddf6-ecf4-482d-8f9b-722875f4edbb</testCaseGuid>
+</TestCaseEntity>

@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Edit company</name>
+   <name>Checkbox article</name>
    <tag></tag>
-   <elementGuidId>4ed5e9cb-0325-492f-aed0-7348047aef2d</elementGuidId>
+   <elementGuidId>5b4f3844-84dd-4764-8603-58ff9fb9377f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@class = 'nav-item start customers-page']</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value></value>
+         <value>//*[@class = 'checkbox chkArticle']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -21,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>nav-item start customers-page</value>
+      <value>checkbox chkArticle</value>
    </webElementProperties>
 </WebElementEntity>

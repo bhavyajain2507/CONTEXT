@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Edit company</name>
+   <name>Move to folder button</name>
    <tag></tag>
-   <elementGuidId>4ed5e9cb-0325-492f-aed0-7348047aef2d</elementGuidId>
+   <elementGuidId>8e60143e-0ea7-48a0-92a8-1f7243e2b2e0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@class = 'nav-item start customers-page']</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value></value>
+         <value>//*[@class = 'create-folder-toggle-btn movetofolderdisable']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -21,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>nav-item start customers-page</value>
+      <value>create-folder-toggle-btn movetofolderdisable</value>
    </webElementProperties>
 </WebElementEntity>

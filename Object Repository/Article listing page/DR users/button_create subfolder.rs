@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Edit company</name>
+   <name>button_create subfolder</name>
    <tag></tag>
-   <elementGuidId>4ed5e9cb-0325-492f-aed0-7348047aef2d</elementGuidId>
+   <elementGuidId>c808bad0-ac69-476a-b9df-eb7ca0e3e46a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@class = 'nav-item start customers-page']</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value></value>
+         <value>//*[@class = 'btn btn-default create-new-subfolder']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -21,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>nav-item start customers-page</value>
+      <value>btn btn-default create-new-subfolder</value>
    </webElementProperties>
 </WebElementEntity>

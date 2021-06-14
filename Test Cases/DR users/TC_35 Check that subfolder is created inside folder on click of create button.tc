@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_35 Check that subfolder is created inside folder on click of create button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa2f2341-8391-4206-97fe-bfad43f9ab87</testCaseGuid>
+</TestCaseEntity>

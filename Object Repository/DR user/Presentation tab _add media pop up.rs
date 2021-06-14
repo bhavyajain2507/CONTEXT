@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Edit company</name>
+   <name>Presentation tab _add media pop up</name>
    <tag></tag>
-   <elementGuidId>4ed5e9cb-0325-492f-aed0-7348047aef2d</elementGuidId>
+   <elementGuidId>18b10a74-c9a0-44ab-ae71-3010e3d112f2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@class = 'nav-item start customers-page']</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value></value>
+         <value>//*[@class = 'noscroll-presentation-list']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -21,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>nav-item start customers-page</value>
+      <value>noscroll-presentation-list</value>
    </webElementProperties>
 </WebElementEntity>

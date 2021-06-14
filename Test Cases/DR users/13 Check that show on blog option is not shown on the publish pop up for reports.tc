@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>13 Check that show on blog option is not shown on the publish pop up for reports</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>bf72e348-97a8-4852-aeb6-b31787bbc462</testCaseGuid>
-</TestCaseEntity>

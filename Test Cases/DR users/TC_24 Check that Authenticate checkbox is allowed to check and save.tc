@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_24 Check that Authenticate checkbox is allowed to check and save</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45846920-6625-412c-9159-537006f2f243</testCaseGuid>
+</TestCaseEntity>

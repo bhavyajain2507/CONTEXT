@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_4 Check that by default Article or Report is not selected on the choose title layout page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>858906df-3329-41cd-8985-89e033f9a842</testCaseGuid>
+</TestCaseEntity>
