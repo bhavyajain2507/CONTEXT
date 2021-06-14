@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Edit company</name>
+   <name>Publish btn_section</name>
    <tag></tag>
-   <elementGuidId>4ed5e9cb-0325-492f-aed0-7348047aef2d</elementGuidId>
+   <elementGuidId>d9a0f822-ea7c-4430-a9f3-3955f7bd9738</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@class = 'nav-item start customers-page']</value>
+         <value>//*[@class = 'SaveArticlebtn save_button_create button-width publish_button publish-wrapper dash-common-wrapper left-grp-child form-control']</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -21,6 +21,6 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>nav-item start customers-page</value>
+      <value>SaveArticlebtn save_button_create button-width publish_button publish-wrapper dash-common-wrapper left-grp-child form-control</value>
    </webElementProperties>
 </WebElementEntity>

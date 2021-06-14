@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_32 Check that Move to Folder dropdown is present in the My company tab next to filter button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>328609d2-611c-4c54-a968-034d6391958d</testCaseGuid>
+</TestCaseEntity>

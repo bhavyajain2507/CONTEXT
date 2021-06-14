@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_8 sec Check that image uploaded initially sets for both landscape and portrait mode in the add media pop up and that it is saved</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3552ea2-67ff-4c6c-a39e-83c08cf37bcf</testCaseGuid>
+</TestCaseEntity>

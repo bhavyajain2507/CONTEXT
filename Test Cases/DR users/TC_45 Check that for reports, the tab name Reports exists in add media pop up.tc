@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_45 Check that for reports, the tab name Reports exists in add media pop up</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a840b456-b1b5-4961-a252-8d3d6d3a6742</testCaseGuid>
+</TestCaseEntity>

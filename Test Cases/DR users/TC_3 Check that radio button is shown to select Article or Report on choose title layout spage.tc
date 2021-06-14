@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_3 Check that radio button is shown to select Article or Report on choose title layout spage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>37e0154d-cefe-46d3-b09c-b0c118ae074c</testCaseGuid>
+</TestCaseEntity>
