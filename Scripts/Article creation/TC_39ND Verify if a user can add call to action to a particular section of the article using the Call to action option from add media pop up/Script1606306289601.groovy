@@ -25,5 +25,9 @@ WebUI.click(findTestObject('Content box/CTA tab'))
 
 WebUI.click(findTestObject('Content box/CTA_list'))
 
-WebUI.check(findTestObject('Content box/CTA_Select btn'))
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Content box/CTA_Select btn'))
+
+WebUI.click(findTestObject('Content box/save button_content box'))
 

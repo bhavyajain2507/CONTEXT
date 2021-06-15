@@ -7,16 +7,24 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@id=&quot;template-head&quot;]</value>
+         <value>//div[@id='template-head'class='fr-element fr-view']//p[contains(text(),'Add your title')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#template-head > div > div.fr-element.fr-view > p</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id=&quot;template-head&quot;]</value>
+      <value>//div[@id='template-head'class='fr-element fr-view']//p[contains(text(),'Add your title')]</value>
    </webElementProperties>
 </WebElementEntity>
