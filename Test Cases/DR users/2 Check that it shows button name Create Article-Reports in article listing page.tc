@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>2 Check that it shows button name Create Article-Reports in article listing page</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>445cf4dc-0e98-4b43-bac5-6db9e1446a68</testCaseGuid>
-</TestCaseEntity>

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@class = 'cropper-file-name title-img-desktop-file']</value>
+         <value>//*[@class = 'cropper-file-name desktop-cropit title-img-file title-img-desktop-file']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>cropper-file-name title-img-desktop-file</value>
+      <value>cropper-file-name desktop-cropit title-img-file title-img-desktop-file</value>
    </webElementProperties>
 </WebElementEntity>

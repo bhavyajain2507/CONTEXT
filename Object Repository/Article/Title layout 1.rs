@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>/html/body/div[2]/div[2]/div[9]/div[21]/div[6]/div[7]/div[2]/div/div[2]/div/div/div</value>
+         <value>//*[@class = 'choose-title-opt-box opt-box-left']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -15,8 +15,8 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath</name>
+      <name>class</name>
       <type>Main</type>
-      <value>/html/body/div[2]/div[2]/div[9]/div[21]/div[6]/div[7]/div[2]/div/div[2]/div/div/div</value>
+      <value>choose-title-opt-box opt-box-left</value>
    </webElementProperties>
 </WebElementEntity>

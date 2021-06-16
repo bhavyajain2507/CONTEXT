@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_12 NDVerify if data for all the fields are saved for create company and retrieved when edit company is opened</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>c776d05d-d091-4763-a17a-90207efc492d</testCaseGuid>
-</TestCaseEntity>

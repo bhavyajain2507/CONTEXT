@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_28 Check that in the Article-Report listing page for Filter if it shows all reports if Reports option is checked</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5bd1b157-c131-4b2f-b10f-ff5bf5b90e29</testCaseGuid>
+</TestCaseEntity>

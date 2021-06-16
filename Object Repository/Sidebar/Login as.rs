@@ -7,7 +7,11 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>/html/body/div[2]/div[2]/div[8]/div/ul/ul/li[4]/a/span[2]</value>
+         <value>//*[@class = 'nav-item start open-login-as-list']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -15,8 +19,8 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath</name>
+      <name>class</name>
       <type>Main</type>
-      <value>/html/body/div[2]/div[2]/div[8]/div/ul/ul/li[4]/a/span[2]</value>
+      <value>nav-item start open-login-as-list</value>
    </webElementProperties>
 </WebElementEntity>

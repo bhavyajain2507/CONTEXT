@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_23 Check that it shows Authenticate Report on publish pop up of report</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5618bac8-239a-406f-b43d-7c15096360d7</testCaseGuid>
+</TestCaseEntity>

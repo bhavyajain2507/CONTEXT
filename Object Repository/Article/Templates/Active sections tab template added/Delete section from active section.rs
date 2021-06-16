@@ -7,16 +7,20 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>/html/body/div[2]/div[2]/div[9]/div[22]/div/div[2]/div/div/div[2]/div[18]/div[2]/span</value>
+         <value>//*[@class = 'delete-temp']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='order_1']//span[@class='delete-temp']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath</name>
+      <name>class</name>
       <type>Main</type>
-      <value>/html/body/div[2]/div[2]/div[9]/div[22]/div/div[2]/div/div/div[2]/div[18]/div[2]/span</value>
+      <value>delete-temp</value>
    </webElementProperties>
 </WebElementEntity>

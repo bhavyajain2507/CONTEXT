@@ -6,12 +6,11 @@
    <elementGuidId>49c7a9b2-3911-4ad1-b6a4-9a8eaa4dc015</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@class='contentBoxesAppeneded']//button[@class='Presentation_duplicate_textContent']//img</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@class='content-box clearfix']//button[@name='dynamic-box']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

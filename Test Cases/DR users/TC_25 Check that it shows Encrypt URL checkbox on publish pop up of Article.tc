@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_25 Check that it shows Encrypt URL checkbox on publish pop up of Article</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da910202-4fb4-4836-9306-f5062114fed4</testCaseGuid>
+</TestCaseEntity>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>9 Check that edit mode shows Article selected if it is saved as Article in create mode</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>fcbc76ba-a717-4b55-aee2-9348c4a95419</testCaseGuid>
-</TestCaseEntity>

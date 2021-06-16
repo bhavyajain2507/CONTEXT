@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_36 Check that article or report from Article-report listing from my content tab is able to move to particular folder or subfolder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>598c20cf-14fc-456b-873d-15768a2b0a46</testCaseGuid>
+</TestCaseEntity>

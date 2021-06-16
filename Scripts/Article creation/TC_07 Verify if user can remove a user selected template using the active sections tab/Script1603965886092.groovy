@@ -22,11 +22,6 @@ WebUI.click(findTestObject('Article/Templates/Active sections tab'))
 
 WebUI.click(findTestObject('Article/Templates/Active sections tab template added/Delete section from active section'))
 
-WebUI.click(findTestObject('Article/Templates/Active sections tab template added/Delete section from active section'))
-
 WebUI.verifyElementNotPresent(findTestObject('Article/Templates/Active sections tab template added/Text section in active section'), 
-    0)
-
-WebUI.verifyElementNotPresent(findTestObject('Article/Templates/Active sections tab template added/2 column section in active section'), 
     0)
 

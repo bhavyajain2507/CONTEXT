@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>11 Verify that 3 more templates are present for DR users ie Carousel, Article with video and Slideshow sections</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>354e3166-fd8d-4400-96d6-309ba009e72e</testCaseGuid>
-</TestCaseEntity>

@@ -18,7 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 WebUI.callTestCase(findTestCase('Article creation/TC_03Verify that template sidebar opens on click of template menu'), [:], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Article/Templates/2 column section template'))
+WebUI.click(findTestObject('Article/Templates/Two column template'))
 
 WebUI.click(findTestObject('Article/Article overlay'))
 

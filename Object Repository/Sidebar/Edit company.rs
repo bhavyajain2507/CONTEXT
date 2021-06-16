@@ -6,14 +6,21 @@
    <elementGuidId>4ed5e9cb-0325-492f-aed0-7348047aef2d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[2]/div[2]/div[8]/div/ul/ul/li[2]/a/span[2]</value>
+         <key>BASIC</key>
+         <value>//*[@class = 'nav-item start customers-page']</value>
       </entry>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
          <value></value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-item start customers-page</value>
+   </webElementProperties>
 </WebElementEntity>

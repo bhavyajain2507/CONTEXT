@@ -14,6 +14,7 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
 
 WebUI.callTestCase(findTestCase('Article creation/TC_04 Verify if the user selected templates are reflected on the Article creation page'), 
     [:], FailureHandling.STOP_ON_FAILURE)
@@ -21,6 +22,14 @@ WebUI.callTestCase(findTestCase('Article creation/TC_04 Verify if the user selec
 WebUI.click(findTestObject('Article/Settings menu button'))
 
 WebUI.check(findTestObject('Article/Category checkbox'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Article/Article overlay'))
+
+WebUI.scrollToElement(findTestObject('Article/Scroll to title layout'), 0)
+
+WebUI.delay(3)
 
 WebUI.setText(findTestObject('Article/Article title_header'), 'My test article')
 

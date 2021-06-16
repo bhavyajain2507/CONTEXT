@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_22 Check that it shows Authenticate Article on publish pop up of article</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b36fc1c2-e09c-4b00-b2be-d3ec7c6bf53b</testCaseGuid>
+</TestCaseEntity>

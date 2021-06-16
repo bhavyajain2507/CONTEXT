@@ -14,13 +14,14 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
 
-WebUI.callTestCase(findTestCase('Article creation/TC_54 Check that Author field name put in meta info is updated in the article'), 
+WebUI.callTestCase(findTestCase('Article creation/TC_14 Verify that content box is added to the section on click of the add media button'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Content box/Duplicate content box button'))
+WebUI.click(findTestObject('Content box/Duplicate content box btn 1'))
 
-WebUI.click(findTestObject('Content box/Duplicate content box button'))
+WebUI.click(findTestObject('Content box/Duplicate content box btn 2'))
 
-WebUI.verifyElementNotVisible(findTestObject('Content box/Duplicate content box button'))
+WebUI.verifyElementNotVisibleInViewport(findTestObject('Content box/Duplicate content box btn 1'), 0)
 

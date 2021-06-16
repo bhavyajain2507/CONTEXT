@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='companydetails']/form/div/div/div[7]/div[2]/div/div[2]/div/label/span</value>
+         <value>//div[@class='page-content-wrapper']//div[6]//div[2]//div[1]//div[2]//div[1]//label[1]//span[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

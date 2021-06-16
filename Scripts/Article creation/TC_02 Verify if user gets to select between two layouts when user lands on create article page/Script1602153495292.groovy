@@ -21,7 +21,7 @@ WebUI.click(findTestObject('Dashboard/Redirect to article listing page from dash
 
 WebUI.click(findTestObject('Article listing page/create article_button'))
 
-WebUI.verifyElementVisible(findTestObject('Article/Title layout 1'), FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementPresent(findTestObject('Article/Title layout 1'), 0)
 
-WebUI.verifyElementVisible(findTestObject('Article/Title layout 2'))
+WebUI.verifyElementPresent(findTestObject('Article/Title layout 2'), 0)
 
