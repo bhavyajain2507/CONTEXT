@@ -33,7 +33,7 @@
       <guid>8adbadce-93d0-4980-901b-5ba4a16be5ee</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Company/TC_12 NDVerify if data for all the fields are saved for create company and retrieved when edit company is opened</testCaseId>
+      <testCaseId>Test Cases/Company/TC_12 Verify if data for all the fields are saved for create company and retrieved when edit company is opened</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>db040609-34e2-4ad0-b154-f3c5f3827dc3</guid>

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@class = 'metaImgUploadDiv']</value>
+         <value>//*[@class = 'logo-upload-customer logo-upload-customer-create adminLogoUpload']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>metaImgUploadDiv</value>
+      <value>logo-upload-customer logo-upload-customer-create adminLogoUpload</value>
    </webElementProperties>
 </WebElementEntity>
