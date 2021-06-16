@@ -30,9 +30,9 @@ WebUI.click(findTestObject('Article/Templates/Text Over media template'))
 
 WebUI.click(findTestObject('Article/Templates/Media template'))
 
-WebUI.click(findTestObject('Article/Templates/Background Scrollmation template'))
-
 WebUI.click(findTestObject('Article/Templates/Content Boxes template'))
+
+WebUI.click(findTestObject('Article/Templates/Background Scrollmation template'))
 
 WebUI.click(findTestObject('Article/Templates/Two Column Content Boxes template'))
 
